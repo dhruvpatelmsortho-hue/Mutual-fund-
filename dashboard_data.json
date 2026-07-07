@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-07-07 07:50 UTC",
+  "generatedAt": "2026-07-07 08:34 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 78409.62,
+      "level": 78326.7,
       "date": "2026-07-07",
       "ath": 85836.12,
-      "fromAth": -8.65,
+      "fromAth": -8.75,
       "isAth": false,
-      "r1y": -6.03,
-      "r2y": -1.94,
-      "r2yCagr": -0.97
+      "r1y": -6.13,
+      "r2y": -2.04,
+      "r2yCagr": -1.03
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 24423.25,
+      "level": 24454.3,
       "date": "2026-07-07",
       "ath": 26328.55,
-      "fromAth": -7.24,
+      "fromAth": -7.12,
       "isAth": false,
-      "r1y": -4.08,
-      "r2y": 0.42,
-      "r2yCagr": 0.21
+      "r1y": -3.96,
+      "r2y": 0.55,
+      "r2yCagr": 0.27
     },
     {
       "name": "Nifty Midcap 100",
@@ -115,14 +115,14 @@
       "name": "Franklin India Focused Equity Fund Direct Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 10.54,
-      "todayDate": "2014-03-28",
-      "ath": 10.55,
-      "fromAth": -0.09,
-      "isAth": true,
-      "r1y": 3.11,
-      "r2y": null,
-      "r2yCagr": null
+      "todayNav": 116.55,
+      "todayDate": "2026-07-06",
+      "ath": 128.78,
+      "fromAth": -9.5,
+      "isAth": false,
+      "r1y": -4.71,
+      "r2y": -2.61,
+      "r2yCagr": -1.31
     },
     {
       "name": "Franklin India Smaller Companies Fund Direct Growth",
@@ -154,27 +154,27 @@
       "name": "HDFC Mid-Cap Opportunities Fund - Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 11.8,
-      "todayDate": "2016-03-02",
-      "ath": 13.6,
-      "fromAth": -13.24,
-      "isAth": false,
-      "r1y": -5.45,
-      "r2y": -11.41,
-      "r2yCagr": -5.88
+      "todayNav": 230.4,
+      "todayDate": "2026-07-06",
+      "ath": 230.4,
+      "fromAth": 0.0,
+      "isAth": true,
+      "r1y": 5.97,
+      "r2y": 14.41,
+      "r2yCagr": 6.96
     },
     {
       "name": "HDFC Value Fund - Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 10.11,
-      "todayDate": "2015-08-10",
-      "ath": 10.27,
-      "fromAth": -1.56,
+      "todayNav": 884.55,
+      "todayDate": "2026-07-06",
+      "ath": 884.55,
+      "fromAth": 0.0,
       "isAth": true,
-      "r1y": 10.61,
-      "r2y": null,
-      "r2yCagr": null
+      "r1y": 5.11,
+      "r2y": 12.03,
+      "r2yCagr": 5.84
     },
     {
       "name": "ICICI Prudential Business Cycle Fund Direct Growth",
@@ -284,14 +284,14 @@
       "name": "Parag Parikh Flexi Cap Fund Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 13.57,
-      "todayDate": "2017-09-29",
-      "ath": 15.33,
-      "fromAth": -11.43,
-      "isAth": false,
-      "r1y": -0.47,
-      "r2y": -0.33,
-      "r2yCagr": -0.17
+      "todayNav": 91.41,
+      "todayDate": "2026-07-06",
+      "ath": 95.77,
+      "fromAth": -4.56,
+      "isAth": true,
+      "r1y": -1.34,
+      "r2y": 8.92,
+      "r2yCagr": 4.37
     },
     {
       "name": "SBI Focused Equity Fund Direct Plan - Growth",
@@ -310,14 +310,14 @@
       "name": "Tata Value Fund Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 14.14,
-      "todayDate": "2021-07-19",
-      "ath": 14.18,
-      "fromAth": -0.3,
-      "isAth": true,
-      "r1y": 45.21,
-      "r2y": 46.24,
-      "r2yCagr": 20.93
+      "todayNav": 398.15,
+      "todayDate": "2026-07-06",
+      "ath": 426.51,
+      "fromAth": -6.65,
+      "isAth": false,
+      "r1y": 0.01,
+      "r2y": -0.42,
+      "r2yCagr": -0.21
     },
     {
       "name": "Mirae Asset NYSE FANG+ ETF FoF Direct Growth",
@@ -336,14 +336,14 @@
       "name": "Motilal Oswal Nasdaq 100 FOF Direct Growth",
       "type": "FOREIGN",
       "error": false,
-      "todayNav": 12.95,
-      "todayDate": "2016-05-25",
-      "ath": 12.95,
-      "fromAth": 0.0,
+      "todayNav": 69.21,
+      "todayDate": "2026-07-06",
+      "ath": 72.31,
+      "fromAth": -4.29,
       "isAth": true,
-      "r1y": 7.06,
-      "r2y": 16.73,
-      "r2yCagr": 8.04
+      "r1y": 70.53,
+      "r2y": 95.54,
+      "r2yCagr": 39.84
     }
   ]
 }
