@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18 21:38 UTC",
+  "generatedAt": "2026-07-19 07:35 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -49,15 +49,7 @@
     {
       "name": "Axis ELSS Tax Saver Direct Plan-Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 109.86,
-      "todayDate": "2026-07-17",
-      "ath": 113.68,
-      "fromAth": -3.37,
-      "isAth": true,
-      "r1y": 0.5,
-      "r2y": 5.36,
-      "r2yCagr": 2.65
+      "error": true
     },
     {
       "name": "Axis Large Cap Fund - Direct Plan - Growth",
@@ -101,15 +93,7 @@
     {
       "name": "DSP Small Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 106.6,
-      "todayDate": "2026-07-17",
-      "ath": 161.38,
-      "fromAth": -33.94,
-      "isAth": false,
-      "r1y": -1.32,
-      "r2y": 1.44,
-      "r2yCagr": 0.72
+      "error": true
     },
     {
       "name": "Franklin India Focused Equity Fund Direct Growth",
@@ -218,15 +202,7 @@
     {
       "name": "ICICI Prudential Value Fund Direct Plan - Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 515.34,
-      "todayDate": "2026-07-17",
-      "ath": 551.95,
-      "fromAth": -6.63,
-      "isAth": false,
-      "r1y": -0.72,
-      "r2y": 6.17,
-      "r2yCagr": 3.04
+      "error": true
     },
     {
       "name": "Mirae Asset Emerging Bluechip Fund Direct Plan - Growth",
@@ -296,54 +272,22 @@
     {
       "name": "SBI Focused Equity Fund Direct Plan - Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 119.76,
-      "todayDate": "2026-07-17",
-      "ath": 159.88,
-      "fromAth": -25.09,
-      "isAth": false,
-      "r1y": -16.1,
-      "r2y": -16.99,
-      "r2yCagr": -8.89
+      "error": true
     },
     {
       "name": "Tata Value Fund Direct Plan - Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 397.29,
-      "todayDate": "2026-07-17",
-      "ath": 426.51,
-      "fromAth": -6.85,
-      "isAth": false,
-      "r1y": -0.47,
-      "r2y": -1.77,
-      "r2yCagr": -0.89
+      "error": true
     },
     {
       "name": "Mirae Asset NYSE FANG+ ETF FoF Direct Growth",
       "type": "FOREIGN",
-      "error": false,
-      "todayNav": 191.9,
-      "todayDate": "2026-07-17",
-      "ath": 203.81,
-      "fromAth": -5.84,
-      "isAth": false,
-      "r1y": -0.31,
-      "r2y": 1.33,
-      "r2yCagr": 0.66
+      "error": true
     },
     {
       "name": "Motilal Oswal Nasdaq 100 FOF Direct Growth",
       "type": "FOREIGN",
-      "error": false,
-      "todayNav": 70.26,
-      "todayDate": "2026-07-17",
-      "ath": 72.31,
-      "fromAth": -2.84,
-      "isAth": true,
-      "r1y": 71.83,
-      "r2y": 96.2,
-      "r2yCagr": 40.07
+      "error": true
     }
   ]
 }
