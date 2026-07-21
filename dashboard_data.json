@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-21 10:09 UTC",
+  "generatedAt": "2026-07-21 16:07 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 77469.03,
+      "level": 77470.11,
       "date": "2026-07-21",
       "ath": 85836.12,
       "fromAth": -9.75,
       "isAth": false,
-      "r1y": -5.76,
+      "r1y": -5.75,
       "r2y": -3.77,
       "r2yCagr": -1.9
     },
