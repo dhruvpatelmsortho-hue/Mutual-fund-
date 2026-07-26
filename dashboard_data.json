@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-07-26 15:48 UTC",
+  "generatedAt": "2026-07-26 20:16 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 76391.39,
-      "date": "2026-07-23",
+      "level": 76059.77,
+      "date": "2026-07-24",
       "ath": 85836.12,
-      "fromAth": -11.0,
+      "fromAth": -11.39,
       "isAth": false,
-      "r1y": -7.66,
-      "r2y": -5.02,
-      "r2yCagr": -2.54
+      "r1y": -7.45,
+      "r2y": -5.1,
+      "r2yCagr": -2.58
     },
     {
       "name": "Nifty 50",
