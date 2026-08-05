@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05 11:15 UTC",
+  "generatedAt": "2026-08-05 13:50 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -49,7 +49,15 @@
     {
       "name": "Axis ELSS Tax Saver Direct Plan-Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 112.92,
+      "todayDate": "2026-08-04",
+      "ath": 113.68,
+      "fromAth": -0.68,
+      "isAth": true,
+      "r1y": 4.44,
+      "r2y": 9.24,
+      "r2yCagr": 4.52
     },
     {
       "name": "Axis Large Cap Fund - Direct Plan - Growth",
