@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-08-06 23:53 UTC",
+  "generatedAt": "2026-08-07 02:14 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 78581.0,
-      "date": "2026-08-05",
+      "level": 78954.76,
+      "date": "2026-08-06",
       "ath": 85836.12,
-      "fromAth": -8.45,
+      "fromAth": -8.02,
       "isAth": false,
-      "r1y": -2.64,
-      "r2y": -0.23,
-      "r2yCagr": -0.11
+      "r1y": -1.97,
+      "r2y": 0.46,
+      "r2yCagr": 0.23
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 24624.65,
-      "date": "2026-08-05",
+      "level": 24636.0,
+      "date": "2026-08-06",
       "ath": 26328.55,
-      "fromAth": -6.47,
+      "fromAth": -6.43,
       "isAth": false,
-      "r1y": -0.1,
-      "r2y": 2.37,
-      "r2yCagr": 1.18
+      "r1y": 0.25,
+      "r2y": 2.68,
+      "r2yCagr": 1.33
     },
     {
       "name": "Nifty Midcap 100",
