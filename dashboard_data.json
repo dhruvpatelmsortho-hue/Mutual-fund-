@@ -1,44 +1,36 @@
 {
-  "generatedAt": "2026-08-17 03:44 UTC",
+  "generatedAt": "2026-08-17 04:37 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 78009.25,
-      "date": "2026-08-14",
+      "level": 77705.67,
+      "date": "2026-08-17",
       "ath": 85836.12,
-      "fromAth": -9.12,
+      "fromAth": -9.47,
       "isAth": false,
-      "r1y": -3.21,
-      "r2y": -1.39,
-      "r2yCagr": -0.7
+      "r1y": -4.39,
+      "r2y": -3.4,
+      "r2yCagr": -1.71
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 24343.45,
+      "level": 24289.8,
       "date": "2026-08-17",
       "ath": 26328.55,
-      "fromAth": -7.54,
+      "fromAth": -7.74,
       "isAth": false,
-      "r1y": -2.14,
-      "r2y": -0.81,
-      "r2yCagr": -0.4
+      "r1y": -2.36,
+      "r2y": -1.02,
+      "r2yCagr": -0.51
     },
     {
       "name": "Nifty Midcap 100",
       "ticker": "^CRSMID",
-      "error": false,
-      "level": 62428.05,
-      "date": "2026-07-17",
-      "ath": 63040.95,
-      "fromAth": -0.97,
-      "isAth": true,
-      "r1y": 4.89,
-      "r2y": 8.26,
-      "r2yCagr": 4.05
+      "error": true
     },
     {
       "name": "Nifty Smallcap 100",
@@ -88,15 +80,7 @@
     {
       "name": "Axis Small Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 59.76,
-      "todayDate": "2026-08-14",
-      "ath": 60.18,
-      "fromAth": -0.7,
-      "isAth": true,
-      "r1y": 13.14,
-      "r2y": 10.32,
-      "r2yCagr": 5.03
+      "error": true
     },
     {
       "name": "DSP Small Cap Fund - Direct Plan - Growth",
@@ -244,7 +228,15 @@
     {
       "name": "Mirae Asset Large Cap Fund Direct Plan - Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 47.68,
+      "todayDate": "2026-08-14",
+      "ath": 56.26,
+      "fromAth": -15.25,
+      "isAth": false,
+      "r1y": 50.23,
+      "r2y": 108.79,
+      "r2yCagr": 44.5
     },
     {
       "name": "Nippon India Focused Equity Fund Direct Growth",
@@ -262,15 +254,7 @@
     {
       "name": "Nippon India Small Cap Fund Direct Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 98.03,
-      "todayDate": "2026-08-14",
-      "ath": 115.66,
-      "fromAth": -15.24,
-      "isAth": false,
-      "r1y": 2.98,
-      "r2y": -9.3,
-      "r2yCagr": -4.76
+      "error": true
     },
     {
       "name": "Parag Parikh Flexi Cap Fund Direct Plan - Growth",
