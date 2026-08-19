@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19 15:23 UTC",
+  "generatedAt": "2026-08-19 16:22 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -30,7 +30,15 @@
     {
       "name": "Nifty Midcap 100",
       "ticker": "^CRSMID",
-      "error": true
+      "error": false,
+      "level": 62428.05,
+      "date": "2026-07-17",
+      "ath": 63040.95,
+      "fromAth": -0.97,
+      "isAth": true,
+      "r1y": 4.89,
+      "r2y": 8.26,
+      "r2yCagr": 4.05
     },
     {
       "name": "Nifty Smallcap 100",
