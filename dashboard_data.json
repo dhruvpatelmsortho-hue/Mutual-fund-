@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21 16:23 UTC",
+  "generatedAt": "2026-08-21 17:21 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -30,7 +30,15 @@
     {
       "name": "Nifty Midcap 100",
       "ticker": "^CRSMID",
-      "error": true
+      "error": false,
+      "level": 62428.05,
+      "date": "2026-07-17",
+      "ath": 63040.95,
+      "fromAth": -0.97,
+      "isAth": true,
+      "r1y": 4.89,
+      "r2y": 8.26,
+      "r2yCagr": 4.05
     },
     {
       "name": "Nifty Smallcap 100",
@@ -70,8 +78,8 @@
       "error": false,
       "todayNav": 1235.6,
       "todayDate": "2026-08-20",
-      "ath": 1235.9,
-      "fromAth": -0.02,
+      "ath": 1236.15,
+      "fromAth": -0.04,
       "isAth": true,
       "r1y": 6.36,
       "r2y": 14.78,
