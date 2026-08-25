@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25 02:14 UTC",
+  "generatedAt": "2026-08-25 03:41 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -18,14 +18,14 @@
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 24219.05,
-      "date": "2026-08-24",
+      "level": 24175.75,
+      "date": "2026-08-25",
       "ath": 26328.55,
-      "fromAth": -8.01,
+      "fromAth": -8.18,
       "isAth": false,
-      "r1y": -3.0,
-      "r2y": -2.43,
-      "r2yCagr": -1.22
+      "r1y": -3.17,
+      "r2y": -3.34,
+      "r2yCagr": -1.68
     },
     {
       "name": "Nifty Midcap 100",
