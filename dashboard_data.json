@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26 02:21 UTC",
+  "generatedAt": "2026-08-26 03:47 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -18,13 +18,13 @@
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 24334.55,
-      "date": "2026-08-25",
+      "level": 24336.95,
+      "date": "2026-08-26",
       "ath": 26328.55,
-      "fromAth": -7.57,
+      "fromAth": -7.56,
       "isAth": false,
-      "r1y": -2.54,
-      "r2y": -2.7,
+      "r1y": -1.52,
+      "r2y": -2.69,
       "r2yCagr": -1.36
     },
     {
