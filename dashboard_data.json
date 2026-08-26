@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26 14:36 UTC",
+  "generatedAt": "2026-08-26 16:11 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -42,27 +42,27 @@
       "name": "Axis ELSS Tax Saver Direct Plan-Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 112.66,
-      "todayDate": "2026-08-25",
+      "todayNav": 112.71,
+      "todayDate": "2026-08-26",
       "ath": 113.68,
-      "fromAth": -0.9,
+      "fromAth": -0.85,
       "isAth": true,
-      "r1y": 2.48,
-      "r2y": 5.02,
-      "r2yCagr": 2.48
+      "r1y": 3.68,
+      "r2y": 5.06,
+      "r2yCagr": 2.5
     },
     {
       "name": "Axis Large Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 71.05,
-      "todayDate": "2026-08-25",
+      "todayNav": 70.79,
+      "todayDate": "2026-08-26",
       "ath": 73.14,
-      "fromAth": -2.86,
+      "fromAth": -3.21,
       "isAth": true,
-      "r1y": 1.04,
-      "r2y": 2.84,
-      "r2yCagr": 1.41
+      "r1y": 1.84,
+      "r2y": 2.46,
+      "r2yCagr": 1.22
     },
     {
       "name": "Axis Midcap Fund Direct Plan - Growth",
@@ -237,14 +237,14 @@
       "name": "Mirae Asset Large Cap Fund Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 50.61,
-      "todayDate": "2026-08-25",
+      "todayNav": 50.45,
+      "todayDate": "2026-08-26",
       "ath": 56.26,
-      "fromAth": -10.04,
+      "fromAth": -10.33,
       "isAth": false,
-      "r1y": 58.75,
-      "r2y": 117.12,
-      "r2yCagr": 47.35
+      "r1y": 57.82,
+      "r2y": 116.43,
+      "r2yCagr": 47.11
     },
     {
       "name": "Nippon India Focused Equity Fund Direct Growth",
