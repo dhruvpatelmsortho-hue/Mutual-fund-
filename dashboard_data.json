@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30 08:47 UTC",
+  "generatedAt": "2026-08-30 14:16 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -41,12 +41,28 @@
     {
       "name": "Axis ELSS Tax Saver Direct Plan-Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 112.63,
+      "todayDate": "2026-08-28",
+      "ath": 113.68,
+      "fromAth": -0.93,
+      "isAth": true,
+      "r1y": 4.8,
+      "r2y": 4.47,
+      "r2yCagr": 2.21
     },
     {
       "name": "Axis Large Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 70.7,
+      "todayDate": "2026-08-28",
+      "ath": 73.14,
+      "fromAth": -3.34,
+      "isAth": true,
+      "r1y": 2.72,
+      "r2y": 1.79,
+      "r2yCagr": 0.89
     },
     {
       "name": "Axis Midcap Fund Direct Plan - Growth",
@@ -64,54 +80,22 @@
     {
       "name": "Axis Small Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 60.17,
-      "todayDate": "2026-08-28",
-      "ath": 60.18,
-      "fromAth": -0.02,
-      "isAth": true,
-      "r1y": 12.9,
-      "r2y": 5.43,
-      "r2yCagr": 2.68
+      "error": true
     },
     {
       "name": "DSP Small Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 106.87,
-      "todayDate": "2026-08-28",
-      "ath": 161.38,
-      "fromAth": -33.78,
-      "isAth": false,
-      "r1y": -1.11,
-      "r2y": 0.6,
-      "r2yCagr": 0.3
+      "error": true
     },
     {
       "name": "Franklin India Focused Equity Fund Direct Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 116.31,
-      "todayDate": "2026-08-28",
-      "ath": 128.78,
-      "fromAth": -9.69,
-      "isAth": false,
-      "r1y": -3.77,
-      "r2y": -5.53,
-      "r2yCagr": -2.8
+      "error": true
     },
     {
       "name": "Franklin India Smaller Companies Fund Direct Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 82.46,
-      "todayDate": "2026-08-28",
-      "ath": 84.44,
-      "fromAth": -2.35,
-      "isAth": true,
-      "r1y": 32.57,
-      "r2y": 56.0,
-      "r2yCagr": 24.9
+      "error": true
     },
     {
       "name": "HDFC Flexi Cap Fund - Direct Plan - Growth Option",
