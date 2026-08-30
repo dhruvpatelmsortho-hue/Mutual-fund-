@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30 02:52 UTC",
+  "generatedAt": "2026-08-30 08:47 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -51,7 +51,15 @@
     {
       "name": "Axis Midcap Fund Direct Plan - Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 1237.77,
+      "todayDate": "2026-08-28",
+      "ath": 1237.77,
+      "fromAth": 0.0,
+      "isAth": true,
+      "r1y": 6.42,
+      "r2y": 14.8,
+      "r2yCagr": 7.15
     },
     {
       "name": "Axis Small Cap Fund - Direct Plan - Growth",
