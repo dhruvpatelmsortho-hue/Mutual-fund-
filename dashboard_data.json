@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29 23:47 UTC",
+  "generatedAt": "2026-08-30 02:52 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -30,15 +30,7 @@
     {
       "name": "Nifty Midcap 100",
       "ticker": "^CRSMID",
-      "error": false,
-      "level": 62428.05,
-      "date": "2026-07-17",
-      "ath": 63040.95,
-      "fromAth": -0.97,
-      "isAth": true,
-      "r1y": 4.89,
-      "r2y": 8.26,
-      "r2yCagr": 4.05
+      "error": true
     },
     {
       "name": "Nifty Smallcap 100",
@@ -49,41 +41,17 @@
     {
       "name": "Axis ELSS Tax Saver Direct Plan-Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 112.63,
-      "todayDate": "2026-08-28",
-      "ath": 113.68,
-      "fromAth": -0.93,
-      "isAth": true,
-      "r1y": 4.8,
-      "r2y": 4.47,
-      "r2yCagr": 2.21
+      "error": true
     },
     {
       "name": "Axis Large Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 70.7,
-      "todayDate": "2026-08-28",
-      "ath": 73.14,
-      "fromAth": -3.34,
-      "isAth": true,
-      "r1y": 2.72,
-      "r2y": 1.79,
-      "r2yCagr": 0.89
+      "error": true
     },
     {
       "name": "Axis Midcap Fund Direct Plan - Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 1237.77,
-      "todayDate": "2026-08-28",
-      "ath": 1237.77,
-      "fromAth": 0.0,
-      "isAth": true,
-      "r1y": 6.42,
-      "r2y": 14.8,
-      "r2yCagr": 7.15
+      "error": true
     },
     {
       "name": "Axis Small Cap Fund - Direct Plan - Growth",
@@ -296,7 +264,15 @@
     {
       "name": "SBI Focused Equity Fund Direct Plan - Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 121.52,
+      "todayDate": "2026-08-28",
+      "ath": 159.88,
+      "fromAth": -23.99,
+      "isAth": false,
+      "r1y": -8.78,
+      "r2y": -18.85,
+      "r2yCagr": -9.91
     },
     {
       "name": "Tata Value Fund Direct Plan - Growth",
