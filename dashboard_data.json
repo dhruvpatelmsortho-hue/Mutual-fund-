@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30 14:16 UTC",
+  "generatedAt": "2026-08-30 18:21 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -30,7 +30,15 @@
     {
       "name": "Nifty Midcap 100",
       "ticker": "^CRSMID",
-      "error": true
+      "error": false,
+      "level": 62428.05,
+      "date": "2026-07-17",
+      "ath": 63040.95,
+      "fromAth": -0.97,
+      "isAth": true,
+      "r1y": 4.89,
+      "r2y": 8.26,
+      "r2yCagr": 4.05
     },
     {
       "name": "Nifty Smallcap 100",
@@ -41,15 +49,7 @@
     {
       "name": "Axis ELSS Tax Saver Direct Plan-Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 112.63,
-      "todayDate": "2026-08-28",
-      "ath": 113.68,
-      "fromAth": -0.93,
-      "isAth": true,
-      "r1y": 4.8,
-      "r2y": 4.47,
-      "r2yCagr": 2.21
+      "error": true
     },
     {
       "name": "Axis Large Cap Fund - Direct Plan - Growth",
@@ -80,22 +80,54 @@
     {
       "name": "Axis Small Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 60.17,
+      "todayDate": "2026-08-28",
+      "ath": 60.18,
+      "fromAth": -0.02,
+      "isAth": true,
+      "r1y": 12.9,
+      "r2y": 5.43,
+      "r2yCagr": 2.68
     },
     {
       "name": "DSP Small Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 106.87,
+      "todayDate": "2026-08-28",
+      "ath": 161.38,
+      "fromAth": -33.78,
+      "isAth": false,
+      "r1y": -1.11,
+      "r2y": 0.6,
+      "r2yCagr": 0.3
     },
     {
       "name": "Franklin India Focused Equity Fund Direct Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 116.31,
+      "todayDate": "2026-08-28",
+      "ath": 128.78,
+      "fromAth": -9.69,
+      "isAth": false,
+      "r1y": -3.77,
+      "r2y": -5.53,
+      "r2yCagr": -2.8
     },
     {
       "name": "Franklin India Smaller Companies Fund Direct Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 82.46,
+      "todayDate": "2026-08-28",
+      "ath": 84.44,
+      "fromAth": -2.35,
+      "isAth": true,
+      "r1y": 32.57,
+      "r2y": 56.0,
+      "r2yCagr": 24.9
     },
     {
       "name": "HDFC Flexi Cap Fund - Direct Plan - Growth Option",
@@ -282,28 +314,12 @@
     {
       "name": "Mirae Asset NYSE FANG+ ETF FoF Direct Growth",
       "type": "FOREIGN",
-      "error": false,
-      "todayNav": 192.71,
-      "todayDate": "2026-08-28",
-      "ath": 203.81,
-      "fromAth": -5.45,
-      "isAth": false,
-      "r1y": 3.04,
-      "r2y": -3.15,
-      "r2yCagr": -1.59
+      "error": true
     },
     {
       "name": "Motilal Oswal Nasdaq 100 FOF Direct Growth",
       "type": "FOREIGN",
-      "error": false,
-      "todayNav": 69.02,
-      "todayDate": "2026-08-28",
-      "ath": 72.31,
-      "fromAth": -4.55,
-      "isAth": true,
-      "r1y": 60.56,
-      "r2y": 101.55,
-      "r2yCagr": 41.97
+      "error": true
     }
   ]
 }
