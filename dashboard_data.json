@@ -1,36 +1,44 @@
 {
-  "generatedAt": "2026-08-31 00:12 UTC",
+  "generatedAt": "2026-08-31 06:30 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 77264.51,
-      "date": "2026-08-28",
+      "level": 76873.95,
+      "date": "2026-08-31",
       "ath": 85836.12,
-      "fromAth": -9.99,
+      "fromAth": -10.44,
       "isAth": false,
-      "r1y": -3.52,
-      "r2y": -5.53,
-      "r2yCagr": -2.8
+      "r1y": -4.34,
+      "r2y": -6.67,
+      "r2yCagr": -3.39
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 24175.65,
-      "date": "2026-08-28",
+      "level": 24065.6,
+      "date": "2026-08-31",
       "ath": 26328.55,
-      "fromAth": -8.18,
+      "fromAth": -8.6,
       "isAth": false,
-      "r1y": -1.33,
-      "r2y": -3.5,
-      "r2yCagr": -1.77
+      "r1y": -2.27,
+      "r2y": -4.64,
+      "r2yCagr": -2.35
     },
     {
       "name": "Nifty Midcap 100",
       "ticker": "^CRSMID",
-      "error": true
+      "error": false,
+      "level": 62428.05,
+      "date": "2026-07-17",
+      "ath": 63040.95,
+      "fromAth": -0.97,
+      "isAth": true,
+      "r1y": 4.89,
+      "r2y": 8.26,
+      "r2yCagr": 4.05
     },
     {
       "name": "Nifty Smallcap 100",
@@ -41,27 +49,67 @@
     {
       "name": "Axis ELSS Tax Saver Direct Plan-Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 112.63,
+      "todayDate": "2026-08-28",
+      "ath": 113.68,
+      "fromAth": -0.93,
+      "isAth": true,
+      "r1y": 4.8,
+      "r2y": 4.47,
+      "r2yCagr": 2.21
     },
     {
       "name": "Axis Large Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 70.7,
+      "todayDate": "2026-08-28",
+      "ath": 73.14,
+      "fromAth": -3.34,
+      "isAth": true,
+      "r1y": 2.72,
+      "r2y": 1.79,
+      "r2yCagr": 0.89
     },
     {
       "name": "Axis Midcap Fund Direct Plan - Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 1237.77,
+      "todayDate": "2026-08-28",
+      "ath": 1237.77,
+      "fromAth": 0.0,
+      "isAth": true,
+      "r1y": 6.42,
+      "r2y": 14.8,
+      "r2yCagr": 7.15
     },
     {
       "name": "Axis Small Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 60.17,
+      "todayDate": "2026-08-28",
+      "ath": 60.18,
+      "fromAth": -0.02,
+      "isAth": true,
+      "r1y": 12.9,
+      "r2y": 5.43,
+      "r2yCagr": 2.68
     },
     {
       "name": "DSP Small Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 106.87,
+      "todayDate": "2026-08-28",
+      "ath": 161.38,
+      "fromAth": -33.78,
+      "isAth": false,
+      "r1y": -1.11,
+      "r2y": 0.6,
+      "r2yCagr": 0.3
     },
     {
       "name": "Franklin India Focused Equity Fund Direct Growth",
@@ -209,7 +257,15 @@
     {
       "name": "Nippon India Focused Equity Fund Direct Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 92.43,
+      "todayDate": "2026-08-28",
+      "ath": 99.46,
+      "fromAth": -7.07,
+      "isAth": false,
+      "r1y": 1.92,
+      "r2y": -3.81,
+      "r2yCagr": -1.92
     },
     {
       "name": "Nippon India Small Cap Fund Direct Growth",
