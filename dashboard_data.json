@@ -1,36 +1,44 @@
 {
-  "generatedAt": "2026-08-31 14:47 UTC",
+  "generatedAt": "2026-08-31 20:34 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 76957.27,
-      "date": "2026-08-31",
+      "level": 76933.59,
+      "date": "2026-08-27",
       "ath": 85836.12,
-      "fromAth": -10.34,
+      "fromAth": -10.37,
       "isAth": false,
-      "r1y": -4.24,
-      "r2y": -6.57,
-      "r2yCagr": -3.34
+      "r1y": -4.77,
+      "r2y": -5.85,
+      "r2yCagr": -2.97
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 24080.4,
-      "date": "2026-08-31",
+      "level": 24090.85,
+      "date": "2026-08-27",
       "ath": 26328.55,
-      "fromAth": -8.54,
+      "fromAth": -8.5,
       "isAth": false,
-      "r1y": -2.21,
-      "r2y": -4.58,
-      "r2yCagr": -2.32
+      "r1y": -2.51,
+      "r2y": -3.7,
+      "r2yCagr": -1.87
     },
     {
       "name": "Nifty Midcap 100",
       "ticker": "^CRSMID",
-      "error": true
+      "error": false,
+      "level": 62428.05,
+      "date": "2026-07-17",
+      "ath": 63040.95,
+      "fromAth": -0.97,
+      "isAth": true,
+      "r1y": 4.89,
+      "r2y": 8.26,
+      "r2yCagr": 4.05
     },
     {
       "name": "Nifty Smallcap 100",
@@ -184,15 +192,7 @@
     {
       "name": "ICICI Prudential Flexicap Fund Direct Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 20.36,
-      "todayDate": "2026-08-28",
-      "ath": 20.41,
-      "fromAth": -0.26,
-      "isAth": true,
-      "r1y": 5.54,
-      "r2y": 14.62,
-      "r2yCagr": 7.06
+      "error": true
     },
     {
       "name": "ICICI Prudential Bluechip Fund Direct Plan - Growth",
@@ -249,7 +249,15 @@
     {
       "name": "Nippon India Focused Equity Fund Direct Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 92.43,
+      "todayDate": "2026-08-28",
+      "ath": 99.46,
+      "fromAth": -7.07,
+      "isAth": false,
+      "r1y": 1.92,
+      "r2y": -3.81,
+      "r2yCagr": -1.92
     },
     {
       "name": "Nippon India Small Cap Fund Direct Growth",
@@ -267,27 +275,67 @@
     {
       "name": "Parag Parikh Flexi Cap Fund Direct Plan - Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 91.18,
+      "todayDate": "2026-08-28",
+      "ath": 95.77,
+      "fromAth": -4.8,
+      "isAth": true,
+      "r1y": 0.0,
+      "r2y": 6.61,
+      "r2yCagr": 3.25
     },
     {
       "name": "SBI Focused Equity Fund Direct Plan - Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 121.52,
+      "todayDate": "2026-08-28",
+      "ath": 159.88,
+      "fromAth": -23.99,
+      "isAth": false,
+      "r1y": -8.78,
+      "r2y": -18.85,
+      "r2yCagr": -9.91
     },
     {
       "name": "Tata Value Fund Direct Plan - Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 407.43,
+      "todayDate": "2026-08-28",
+      "ath": 426.51,
+      "fromAth": -4.47,
+      "isAth": true,
+      "r1y": 8.11,
+      "r2y": -1.75,
+      "r2yCagr": -0.88
     },
     {
       "name": "Mirae Asset NYSE FANG+ ETF FoF Direct Growth",
       "type": "FOREIGN",
-      "error": true
+      "error": false,
+      "todayNav": 192.71,
+      "todayDate": "2026-08-28",
+      "ath": 203.81,
+      "fromAth": -5.45,
+      "isAth": false,
+      "r1y": 3.04,
+      "r2y": -3.15,
+      "r2yCagr": -1.59
     },
     {
       "name": "Motilal Oswal Nasdaq 100 FOF Direct Growth",
       "type": "FOREIGN",
-      "error": true
+      "error": false,
+      "todayNav": 69.02,
+      "todayDate": "2026-08-28",
+      "ath": 72.31,
+      "fromAth": -4.55,
+      "isAth": true,
+      "r1y": 60.56,
+      "r2y": 101.55,
+      "r2yCagr": 41.97
     }
   ]
 }
