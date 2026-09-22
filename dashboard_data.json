@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21 21:33 UTC",
+  "generatedAt": "2026-09-22 00:29 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -118,15 +118,7 @@
     {
       "name": "Franklin India Smaller Companies Fund Direct Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 81.4,
-      "todayDate": "2026-09-18",
-      "ath": 84.44,
-      "fromAth": -3.59,
-      "isAth": true,
-      "r1y": 24.95,
-      "r2y": 54.96,
-      "r2yCagr": 24.48
+      "error": true
     },
     {
       "name": "HDFC Flexi Cap Fund - Direct Plan - Growth Option",
