@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-09-22 00:29 UTC",
+  "generatedAt": "2026-09-22 05:42 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 74294.96,
-      "date": "2026-09-18",
+      "level": 74728.13,
+      "date": "2026-09-22",
       "ath": 85836.12,
-      "fromAth": -13.45,
+      "fromAth": -12.94,
       "isAth": false,
-      "r1y": -10.5,
-      "r2y": -10.43,
-      "r2yCagr": -5.36
+      "r1y": -9.05,
+      "r2y": -12.01,
+      "r2yCagr": -6.2
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 23346.4,
-      "date": "2026-09-18",
+      "level": 23382.85,
+      "date": "2026-09-22",
       "ath": 26328.55,
-      "fromAth": -11.33,
+      "fromAth": -11.19,
       "isAth": false,
-      "r1y": -8.17,
-      "r2y": -8.0,
-      "r2yCagr": -4.09
+      "r1y": -7.22,
+      "r2y": -9.85,
+      "r2yCagr": -5.06
     },
     {
       "name": "Nifty Midcap 100",
@@ -118,7 +118,15 @@
     {
       "name": "Franklin India Smaller Companies Fund Direct Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 81.4,
+      "todayDate": "2026-09-18",
+      "ath": 84.44,
+      "fromAth": -3.59,
+      "isAth": true,
+      "r1y": 24.95,
+      "r2y": 54.96,
+      "r2yCagr": 24.48
     },
     {
       "name": "HDFC Flexi Cap Fund - Direct Plan - Growth Option",
