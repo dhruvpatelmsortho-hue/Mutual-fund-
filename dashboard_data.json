@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-09-23 01:10 UTC",
+  "generatedAt": "2026-09-23 07:07 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 74858.99,
-      "date": "2026-09-21",
+      "level": 74959.98,
+      "date": "2026-09-23",
       "ath": 85836.12,
-      "fromAth": -12.79,
+      "fromAth": -12.67,
       "isAth": false,
-      "r1y": -8.89,
-      "r2y": -11.46,
-      "r2yCagr": -5.9
+      "r1y": -8.7,
+      "r2y": -11.74,
+      "r2yCagr": -6.05
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 23414.3,
-      "date": "2026-09-21",
+      "level": 23450.4,
+      "date": "2026-09-23",
       "ath": 26328.55,
-      "fromAth": -11.07,
+      "fromAth": -10.93,
       "isAth": false,
-      "r1y": -7.09,
-      "r2y": -9.22,
-      "r2yCagr": -4.72
+      "r1y": -6.83,
+      "r2y": -9.59,
+      "r2yCagr": -4.92
     },
     {
       "name": "Nifty Midcap 100",
@@ -313,7 +313,15 @@
     {
       "name": "Mirae Asset NYSE FANG+ ETF FoF Direct Growth",
       "type": "FOREIGN",
-      "error": true
+      "error": false,
+      "todayNav": 187.19,
+      "todayDate": "2026-09-18",
+      "ath": 203.81,
+      "fromAth": -8.15,
+      "isAth": false,
+      "r1y": -3.79,
+      "r2y": -6.07,
+      "r2yCagr": -3.08
     },
     {
       "name": "Motilal Oswal Nasdaq 100 FOF Direct Growth",
