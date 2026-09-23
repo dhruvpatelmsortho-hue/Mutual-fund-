@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-09-23 18:07 UTC",
+  "generatedAt": "2026-09-23 21:58 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 74828.25,
-      "date": "2026-09-23",
+      "level": 74858.99,
+      "date": "2026-09-21",
       "ath": 85836.12,
-      "fromAth": -12.82,
+      "fromAth": -12.79,
       "isAth": false,
-      "r1y": -8.86,
-      "r2y": -11.89,
-      "r2yCagr": -6.13
+      "r1y": -8.89,
+      "r2y": -11.46,
+      "r2yCagr": -5.9
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 23446.8,
-      "date": "2026-09-23",
+      "level": 23414.3,
+      "date": "2026-09-21",
       "ath": 26328.55,
-      "fromAth": -10.95,
+      "fromAth": -11.07,
       "isAth": false,
-      "r1y": -6.84,
-      "r2y": -9.61,
-      "r2yCagr": -4.93
+      "r1y": -7.09,
+      "r2y": -9.22,
+      "r2yCagr": -4.72
     },
     {
       "name": "Nifty Midcap 100",
@@ -209,15 +209,7 @@
     {
       "name": "ICICI Prudential Value Fund Direct Plan - Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 494.02,
-      "todayDate": "2026-09-18",
-      "ath": 551.95,
-      "fromAth": -10.5,
-      "isAth": false,
-      "r1y": -6.35,
-      "r2y": -3.46,
-      "r2yCagr": -1.75
+      "error": true
     },
     {
       "name": "Mirae Asset Emerging Bluechip Fund Direct Plan - Growth",
