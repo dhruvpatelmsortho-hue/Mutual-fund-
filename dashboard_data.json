@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-09-23 07:07 UTC",
+  "generatedAt": "2026-09-23 13:16 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 74959.98,
+      "level": 74828.25,
       "date": "2026-09-23",
       "ath": 85836.12,
-      "fromAth": -12.67,
+      "fromAth": -12.82,
       "isAth": false,
-      "r1y": -8.7,
-      "r2y": -11.74,
-      "r2yCagr": -6.05
+      "r1y": -8.86,
+      "r2y": -11.89,
+      "r2yCagr": -6.13
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 23450.4,
+      "level": 23446.8,
       "date": "2026-09-23",
       "ath": 26328.55,
-      "fromAth": -10.93,
+      "fromAth": -10.95,
       "isAth": false,
-      "r1y": -6.83,
-      "r2y": -9.59,
-      "r2yCagr": -4.92
+      "r1y": -6.84,
+      "r2y": -9.61,
+      "r2yCagr": -4.93
     },
     {
       "name": "Nifty Midcap 100",
@@ -40,15 +40,7 @@
     {
       "name": "Axis ELSS Tax Saver Direct Plan-Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 109.99,
-      "todayDate": "2026-09-18",
-      "ath": 113.68,
-      "fromAth": -3.25,
-      "isAth": true,
-      "r1y": -1.38,
-      "r2y": -1.13,
-      "r2yCagr": -0.56
+      "error": true
     },
     {
       "name": "Axis Large Cap Fund - Direct Plan - Growth",
