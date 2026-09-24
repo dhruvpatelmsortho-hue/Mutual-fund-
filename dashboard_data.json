@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-09-24 05:43 UTC",
+  "generatedAt": "2026-09-24 10:53 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 74190.09,
+      "level": 73580.54,
       "date": "2026-09-24",
       "ath": 85836.12,
-      "fromAth": -13.57,
+      "fromAth": -14.28,
       "isAth": false,
-      "r1y": -9.21,
-      "r2y": -12.63,
-      "r2yCagr": -6.53
+      "r1y": -9.96,
+      "r2y": -13.35,
+      "r2yCagr": -6.91
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 23212.85,
+      "level": 23063.1,
       "date": "2026-09-24",
       "ath": 26328.55,
-      "fromAth": -11.83,
+      "fromAth": -12.4,
       "isAth": false,
-      "r1y": -7.36,
-      "r2y": -10.51,
-      "r2yCagr": -5.4
+      "r1y": -7.96,
+      "r2y": -11.09,
+      "r2yCagr": -5.71
     },
     {
       "name": "Nifty Midcap 100",
@@ -131,15 +131,7 @@
     {
       "name": "HDFC Flexi Cap Fund - Direct Plan - Growth Option",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 2242.76,
-      "todayDate": "2026-09-18",
-      "ath": 2305.46,
-      "fromAth": -2.72,
-      "isAth": true,
-      "r1y": -0.17,
-      "r2y": 7.11,
-      "r2yCagr": 3.49
+      "error": true
     },
     {
       "name": "HDFC Mid-Cap Opportunities Fund - Direct Plan - Growth",
