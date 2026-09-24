@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24 10:53 UTC",
+  "generatedAt": "2026-09-24 15:41 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -131,7 +131,15 @@
     {
       "name": "HDFC Flexi Cap Fund - Direct Plan - Growth Option",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 2242.76,
+      "todayDate": "2026-09-18",
+      "ath": 2305.46,
+      "fromAth": -2.72,
+      "isAth": true,
+      "r1y": -0.17,
+      "r2y": 7.11,
+      "r2yCagr": 3.49
     },
     {
       "name": "HDFC Mid-Cap Opportunities Fund - Direct Plan - Growth",
@@ -227,15 +235,7 @@
     {
       "name": "Mirae Asset Large Cap Fund Direct Plan - Growth",
       "type": "INDIAN",
-      "error": false,
-      "todayNav": 48.3,
-      "todayDate": "2026-09-18",
-      "ath": 56.26,
-      "fromAth": -14.16,
-      "isAth": false,
-      "r1y": 38.25,
-      "r2y": 103.71,
-      "r2yCagr": 42.73
+      "error": true
     },
     {
       "name": "Nippon India Focused Equity Fund Direct Growth",
