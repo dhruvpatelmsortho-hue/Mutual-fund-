@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26 02:50 UTC",
+  "generatedAt": "2026-09-26 08:11 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -119,14 +119,14 @@
       "name": "Franklin India Smaller Companies Fund Direct Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 82.18,
-      "todayDate": "2026-09-24",
+      "todayNav": 82.84,
+      "todayDate": "2026-09-25",
       "ath": 84.44,
-      "fromAth": -2.68,
+      "fromAth": -1.89,
       "isAth": true,
-      "r1y": 25.82,
-      "r2y": 55.35,
-      "r2yCagr": 24.64
+      "r1y": 28.9,
+      "r2y": 56.44,
+      "r2yCagr": 25.08
     },
     {
       "name": "HDFC Flexi Cap Fund - Direct Plan - Growth Option",
@@ -171,14 +171,14 @@
       "name": "ICICI Prudential Business Cycle Fund Direct Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 25.29,
-      "todayDate": "2026-09-24",
+      "todayNav": 25.44,
+      "todayDate": "2026-09-25",
       "ath": 27.67,
-      "fromAth": -8.6,
+      "fromAth": -8.06,
       "isAth": false,
-      "r1y": -3.88,
-      "r2y": 0.08,
-      "r2yCagr": 0.04
+      "r1y": -2.97,
+      "r2y": 0.51,
+      "r2yCagr": 0.26
     },
     {
       "name": "ICICI Prudential Flexicap Fund Direct Growth",
@@ -275,27 +275,27 @@
       "name": "Parag Parikh Flexi Cap Fund Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 89.6,
-      "todayDate": "2026-09-24",
+      "todayNav": 89.96,
+      "todayDate": "2026-09-25",
       "ath": 95.77,
-      "fromAth": -6.44,
+      "fromAth": -6.07,
       "isAth": false,
-      "r1y": -4.47,
-      "r2y": 0.79,
-      "r2yCagr": 0.39
+      "r1y": -3.45,
+      "r2y": 0.86,
+      "r2yCagr": 0.43
     },
     {
       "name": "SBI Focused Equity Fund Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 112.78,
-      "todayDate": "2026-09-24",
+      "todayNav": 112.67,
+      "todayDate": "2026-09-25",
       "ath": 159.88,
-      "fromAth": -29.46,
+      "fromAth": -29.53,
       "isAth": false,
-      "r1y": -15.38,
-      "r2y": -25.73,
-      "r2yCagr": -13.82
+      "r1y": -14.81,
+      "r2y": -25.47,
+      "r2yCagr": -13.67
     },
     {
       "name": "Tata Value Fund Direct Plan - Growth",
