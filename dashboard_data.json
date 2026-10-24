@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-24 01:17 UTC",
+  "generatedAt": "2026-10-24 06:43 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 73249.39,
-      "date": "2026-10-22",
+      "level": 73123.83,
+      "date": "2026-10-23",
       "ath": 85836.12,
-      "fromAth": -14.66,
+      "fromAth": -14.81,
       "isAth": false,
-      "r1y": -13.24,
+      "r1y": -13.52,
       "r2y": -8.69,
       "r2yCagr": -4.44
     },
@@ -18,14 +18,14 @@
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 22687.65,
-      "date": "2026-10-22",
+      "level": 22600.0,
+      "date": "2026-10-23",
       "ath": 26328.55,
-      "fromAth": -13.83,
+      "fromAth": -14.16,
       "isAth": false,
-      "r1y": -12.3,
-      "r2y": -7.29,
-      "r2yCagr": -3.71
+      "r1y": -12.71,
+      "r2y": -7.51,
+      "r2yCagr": -3.83
     },
     {
       "name": "Nifty Midcap 100",
@@ -119,14 +119,14 @@
       "name": "Franklin India Smaller Companies Fund Direct Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 80.33,
-      "todayDate": "2026-10-22",
+      "todayNav": 79.7,
+      "todayDate": "2026-10-23",
       "ath": 84.46,
-      "fromAth": -4.9,
-      "isAth": true,
-      "r1y": 22.81,
-      "r2y": 50.05,
-      "r2yCagr": 22.49
+      "fromAth": -5.64,
+      "isAth": false,
+      "r1y": 21.85,
+      "r2y": 49.08,
+      "r2yCagr": 22.1
     },
     {
       "name": "HDFC Flexi Cap Fund - Direct Plan - Growth Option",
@@ -171,14 +171,14 @@
       "name": "ICICI Prudential Business Cycle Fund Direct Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 24.57,
-      "todayDate": "2026-10-22",
+      "todayNav": 24.38,
+      "todayDate": "2026-10-23",
       "ath": 27.67,
-      "fromAth": -11.2,
+      "fromAth": -11.89,
       "isAth": false,
-      "r1y": -8.86,
-      "r2y": 1.4,
-      "r2yCagr": 0.7
+      "r1y": -9.57,
+      "r2y": 1.04,
+      "r2yCagr": 0.52
     },
     {
       "name": "ICICI Prudential Flexicap Fund Direct Growth",
@@ -288,14 +288,14 @@
       "name": "SBI Focused Equity Fund Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 120.14,
-      "todayDate": "2026-10-22",
+      "todayNav": 118.44,
+      "todayDate": "2026-10-23",
       "ath": 159.88,
-      "fromAth": -24.86,
+      "fromAth": -25.92,
       "isAth": false,
-      "r1y": -12.12,
-      "r2y": -18.09,
-      "r2yCagr": -9.49
+      "r1y": -13.36,
+      "r2y": -20.36,
+      "r2yCagr": -10.76
     },
     {
       "name": "Tata Value Fund Direct Plan - Growth",
