@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24 18:32 UTC",
+  "generatedAt": "2026-10-24 21:21 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -209,7 +209,15 @@
     {
       "name": "ICICI Prudential Value Fund Direct Plan - Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 479.92,
+      "todayDate": "2026-10-23",
+      "ath": 551.95,
+      "fromAth": -13.05,
+      "isAth": false,
+      "r1y": -10.36,
+      "r2y": -3.4,
+      "r2yCagr": -1.71
     },
     {
       "name": "Mirae Asset Emerging Bluechip Fund Direct Plan - Growth",
