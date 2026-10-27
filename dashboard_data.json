@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-10-26 22:58 UTC",
+  "generatedAt": "2026-10-27 01:50 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 73123.83,
-      "date": "2026-10-23",
+      "level": 73606.75,
+      "date": "2026-10-26",
       "ath": 85836.12,
-      "fromAth": -14.81,
+      "fromAth": -14.25,
       "isAth": false,
-      "r1y": -13.52,
-      "r2y": -8.69,
-      "r2yCagr": -4.44
+      "r1y": -13.18,
+      "r2y": -7.3,
+      "r2yCagr": -3.72
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 22600.0,
-      "date": "2026-10-23",
+      "level": 22753.2,
+      "date": "2026-10-26",
       "ath": 26328.55,
-      "fromAth": -14.16,
+      "fromAth": -13.58,
       "isAth": false,
-      "r1y": -12.71,
-      "r2y": -7.51,
-      "r2yCagr": -3.83
+      "r1y": -12.37,
+      "r2y": -5.9,
+      "r2yCagr": -3.0
     },
     {
       "name": "Nifty Midcap 100",
@@ -41,27 +41,27 @@
       "name": "Axis ELSS Tax Saver Direct Plan-Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 103.5,
-      "todayDate": "2026-10-23",
+      "todayNav": 104.42,
+      "todayDate": "2026-10-26",
       "ath": 113.68,
-      "fromAth": -8.96,
+      "fromAth": -8.15,
       "isAth": false,
-      "r1y": -7.47,
-      "r2y": -3.06,
-      "r2yCagr": -1.54
+      "r1y": -7.0,
+      "r2y": -1.35,
+      "r2yCagr": -0.68
     },
     {
       "name": "Axis Large Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 65.93,
-      "todayDate": "2026-10-23",
+      "todayNav": 66.26,
+      "todayDate": "2026-10-26",
       "ath": 73.14,
-      "fromAth": -9.86,
+      "fromAth": -9.41,
       "isAth": false,
-      "r1y": -8.23,
-      "r2y": -2.54,
-      "r2yCagr": -1.28
+      "r1y": -8.0,
+      "r2y": -1.06,
+      "r2yCagr": -0.53
     },
     {
       "name": "Axis Midcap Fund Direct Plan - Growth",
@@ -132,40 +132,40 @@
       "name": "HDFC Flexi Cap Fund - Direct Plan - Growth Option",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 2121.91,
-      "todayDate": "2026-10-23",
+      "todayNav": 2143.16,
+      "todayDate": "2026-10-26",
       "ath": 2305.46,
-      "fromAth": -7.96,
+      "fromAth": -7.04,
       "isAth": false,
-      "r1y": -6.76,
-      "r2y": 3.7,
-      "r2yCagr": 1.83
+      "r1y": -5.94,
+      "r2y": 5.02,
+      "r2yCagr": 2.48
     },
     {
       "name": "HDFC Mid-Cap Opportunities Fund - Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 213.42,
-      "todayDate": "2026-10-23",
+      "todayNav": 214.64,
+      "todayDate": "2026-10-26",
       "ath": 237.63,
-      "fromAth": -10.19,
+      "fromAth": -9.67,
       "isAth": false,
-      "r1y": -3.17,
-      "r2y": 4.95,
-      "r2yCagr": 2.44
+      "r1y": -3.15,
+      "r2y": 6.89,
+      "r2yCagr": 3.39
     },
     {
       "name": "HDFC Value Fund - Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 833.35,
-      "todayDate": "2026-10-23",
+      "todayNav": 837.25,
+      "todayDate": "2026-10-26",
       "ath": 905.24,
-      "fromAth": -7.94,
+      "fromAth": -7.51,
       "isAth": false,
-      "r1y": -2.64,
-      "r2y": 2.96,
-      "r2yCagr": 1.47
+      "r1y": -2.55,
+      "r2y": 4.95,
+      "r2yCagr": 2.45
     },
     {
       "name": "ICICI Prudential Business Cycle Fund Direct Growth",
@@ -301,14 +301,14 @@
       "name": "Tata Value Fund Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 372.04,
-      "todayDate": "2026-10-23",
+      "todayNav": 374.66,
+      "todayDate": "2026-10-26",
       "ath": 426.51,
-      "fromAth": -12.77,
+      "fromAth": -12.16,
       "isAth": false,
-      "r1y": -7.9,
-      "r2y": -6.91,
-      "r2yCagr": -3.51
+      "r1y": -7.64,
+      "r2y": -4.35,
+      "r2yCagr": -2.2
     },
     {
       "name": "Mirae Asset NYSE FANG+ ETF FoF Direct Growth",
@@ -327,14 +327,14 @@
       "name": "Motilal Oswal Nasdaq 100 FOF Direct Growth",
       "type": "FOREIGN",
       "error": false,
-      "todayNav": 60.8,
-      "todayDate": "2026-10-23",
+      "todayNav": 60.49,
+      "todayDate": "2026-10-26",
       "ath": 72.73,
-      "fromAth": -16.41,
+      "fromAth": -16.83,
       "isAth": false,
-      "r1y": 19.64,
-      "r2y": 71.97,
-      "r2yCagr": 31.14
+      "r1y": 16.69,
+      "r2y": 71.08,
+      "r2yCagr": 30.8
     }
   ]
 }
