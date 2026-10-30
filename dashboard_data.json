@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-10-29 23:53 UTC",
+  "generatedAt": "2026-10-30 03:48 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 73246.03,
-      "date": "2026-10-28",
+      "level": 74151.04,
+      "date": "2026-10-29",
       "ath": 85836.12,
-      "fromAth": -14.67,
+      "fromAth": -13.61,
       "isAth": false,
-      "r1y": -13.45,
-      "r2y": -8.45,
-      "r2yCagr": -4.32
+      "r1y": -12.76,
+      "r2y": -7.74,
+      "r2yCagr": -3.95
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 22698.85,
-      "date": "2026-10-28",
+      "level": 22937.25,
+      "date": "2026-10-30",
       "ath": 26328.55,
-      "fromAth": -13.79,
+      "fromAth": -12.88,
       "isAth": false,
-      "r1y": -12.48,
-      "r2y": -6.74,
-      "r2yCagr": -3.43
+      "r1y": -11.36,
+      "r2y": -5.77,
+      "r2yCagr": -2.93
     },
     {
       "name": "Nifty Midcap 100",
@@ -41,27 +41,27 @@
       "name": "Axis ELSS Tax Saver Direct Plan-Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 105.46,
-      "todayDate": "2026-10-28",
+      "todayNav": 106.63,
+      "todayDate": "2026-10-29",
       "ath": 113.68,
-      "fromAth": -7.23,
+      "fromAth": -6.21,
       "isAth": false,
-      "r1y": -5.76,
-      "r2y": 0.06,
-      "r2yCagr": 0.03
+      "r1y": -5.14,
+      "r2y": 0.63,
+      "r2yCagr": 0.31
     },
     {
       "name": "Axis Large Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 66.58,
-      "todayDate": "2026-10-28",
+      "todayNav": 67.29,
+      "todayDate": "2026-10-29",
       "ath": 73.14,
-      "fromAth": -8.97,
+      "fromAth": -8.0,
       "isAth": false,
-      "r1y": -7.36,
-      "r2y": -0.55,
-      "r2yCagr": -0.28
+      "r1y": -6.66,
+      "r2y": 0.13,
+      "r2yCagr": 0.07
     },
     {
       "name": "Axis Midcap Fund Direct Plan - Growth",
@@ -105,7 +105,15 @@
     {
       "name": "Franklin India Focused Equity Fund Direct Growth",
       "type": "INDIAN",
-      "error": true
+      "error": false,
+      "todayNav": 107.81,
+      "todayDate": "2026-10-29",
+      "ath": 128.78,
+      "fromAth": -16.29,
+      "isAth": false,
+      "r1y": -14.77,
+      "r2y": -9.16,
+      "r2yCagr": -4.69
     },
     {
       "name": "Franklin India Smaller Companies Fund Direct Growth",
@@ -124,27 +132,27 @@
       "name": "HDFC Flexi Cap Fund - Direct Plan - Growth Option",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 2166.29,
-      "todayDate": "2026-10-28",
+      "todayNav": 2180.5,
+      "todayDate": "2026-10-29",
       "ath": 2305.46,
-      "fromAth": -6.04,
+      "fromAth": -5.42,
       "isAth": false,
-      "r1y": -4.97,
-      "r2y": 5.88,
-      "r2yCagr": 2.9
+      "r1y": -4.8,
+      "r2y": 5.96,
+      "r2yCagr": 2.94
     },
     {
       "name": "HDFC Mid-Cap Opportunities Fund - Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 216.18,
-      "todayDate": "2026-10-28",
+      "todayNav": 217.64,
+      "todayDate": "2026-10-29",
       "ath": 237.63,
-      "fromAth": -9.02,
+      "fromAth": -8.41,
       "isAth": false,
-      "r1y": -2.54,
-      "r2y": 6.76,
-      "r2yCagr": 3.33
+      "r1y": -2.19,
+      "r2y": 6.54,
+      "r2yCagr": 3.22
     },
     {
       "name": "HDFC Value Fund - Direct Plan - Growth",
@@ -202,14 +210,14 @@
       "name": "ICICI Prudential Value Fund Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 481.1,
-      "todayDate": "2026-10-28",
+      "todayNav": 484.48,
+      "todayDate": "2026-10-29",
       "ath": 551.95,
-      "fromAth": -12.84,
+      "fromAth": -12.22,
       "isAth": false,
-      "r1y": -10.44,
-      "r2y": -3.04,
-      "r2yCagr": -1.53
+      "r1y": -10.35,
+      "r2y": -2.69,
+      "r2yCagr": -1.36
     },
     {
       "name": "Mirae Asset Emerging Bluechip Fund Direct Plan - Growth",
