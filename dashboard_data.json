@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31 07:49 UTC",
+  "generatedAt": "2026-10-31 14:08 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
@@ -275,14 +275,14 @@
       "name": "Parag Parikh Flexi Cap Fund Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 88.96,
-      "todayDate": "2026-10-29",
+      "todayNav": 89.23,
+      "todayDate": "2026-10-30",
       "ath": 95.77,
-      "fromAth": -7.11,
+      "fromAth": -6.83,
       "isAth": false,
-      "r1y": -6.97,
-      "r2y": 2.42,
-      "r2yCagr": 1.2
+      "r1y": -5.87,
+      "r2y": 3.13,
+      "r2yCagr": 1.55
     },
     {
       "name": "SBI Focused Equity Fund Direct Plan - Growth",
