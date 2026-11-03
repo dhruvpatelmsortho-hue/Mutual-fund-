@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-11-03 11:31 UTC",
+  "generatedAt": "2026-11-03 18:54 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 76917.85,
-      "date": "2026-11-03",
+      "level": 75692.78,
+      "date": "2026-11-02",
       "ath": 85836.12,
-      "fromAth": -10.39,
+      "fromAth": -11.82,
       "isAth": false,
-      "r1y": -8.41,
-      "r2y": -2.37,
-      "r2yCagr": -1.19
+      "r1y": -9.87,
+      "r2y": -5.06,
+      "r2yCagr": -2.56
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 23810.85,
-      "date": "2026-11-03",
+      "level": 23440.8,
+      "date": "2026-11-02",
       "ath": 26328.55,
-      "fromAth": -9.56,
+      "fromAth": -10.97,
       "isAth": false,
-      "r1y": -7.58,
-      "r2y": -0.77,
-      "r2yCagr": -0.39
+      "r1y": -9.01,
+      "r2y": -3.55,
+      "r2yCagr": -1.79
     },
     {
       "name": "Nifty Midcap 100",
@@ -288,14 +288,14 @@
       "name": "SBI Focused Equity Fund Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 119.59,
-      "todayDate": "2026-10-30",
+      "todayNav": 120.26,
+      "todayDate": "2026-11-02",
       "ath": 159.88,
-      "fromAth": -25.2,
+      "fromAth": -24.78,
       "isAth": false,
-      "r1y": -13.21,
-      "r2y": -18.22,
-      "r2yCagr": -9.57
+      "r1y": -12.12,
+      "r2y": -16.23,
+      "r2yCagr": -8.47
     },
     {
       "name": "Tata Value Fund Direct Plan - Growth",
