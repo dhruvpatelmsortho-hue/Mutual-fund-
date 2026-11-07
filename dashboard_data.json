@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-11-06 22:36 UTC",
+  "generatedAt": "2026-11-07 02:29 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 79310.01,
-      "date": "2026-11-05",
+      "level": 81028.02,
+      "date": "2026-11-06",
       "ath": 85836.12,
-      "fromAth": -7.6,
+      "fromAth": -5.6,
       "isAth": false,
-      "r1y": -4.97,
-      "r2y": -0.21,
-      "r2yCagr": -0.1
+      "r1y": -2.74,
+      "r2y": 0.81,
+      "r2yCagr": 0.4
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 24536.6,
-      "date": "2026-11-05",
+      "level": 25030.35,
+      "date": "2026-11-06",
       "ath": 26328.55,
-      "fromAth": -6.81,
-      "isAth": false,
-      "r1y": -4.15,
-      "r2y": 1.34,
-      "r2yCagr": 0.67
+      "fromAth": -4.93,
+      "isAth": true,
+      "r1y": -1.88,
+      "r2y": 2.23,
+      "r2yCagr": 1.11
     },
     {
       "name": "Nifty Midcap 100",
@@ -54,14 +54,14 @@
       "name": "Axis Large Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 71.69,
-      "todayDate": "2026-11-05",
+      "todayNav": 72.99,
+      "todayDate": "2026-11-06",
       "ath": 73.14,
-      "fromAth": -1.98,
+      "fromAth": -0.21,
       "isAth": true,
-      "r1y": 0.69,
-      "r2y": 7.8,
-      "r2yCagr": 3.83
+      "r1y": 3.06,
+      "r2y": 8.28,
+      "r2yCagr": 4.06
     },
     {
       "name": "Axis Midcap Fund Direct Plan - Growth",
@@ -132,14 +132,14 @@
       "name": "HDFC Flexi Cap Fund - Direct Plan - Growth Option",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 2305.35,
-      "todayDate": "2026-11-05",
-      "ath": 2305.46,
-      "fromAth": -0.01,
+      "todayNav": 2335.94,
+      "todayDate": "2026-11-06",
+      "ath": 2335.94,
+      "fromAth": 0.0,
       "isAth": true,
-      "r1y": 2.04,
-      "r2y": 12.2,
-      "r2yCagr": 5.92
+      "r1y": 4.04,
+      "r2y": 12.65,
+      "r2yCagr": 6.14
     },
     {
       "name": "HDFC Mid-Cap Opportunities Fund - Direct Plan - Growth",
@@ -327,14 +327,14 @@
       "name": "Motilal Oswal Nasdaq 100 FOF Direct Growth",
       "type": "FOREIGN",
       "error": false,
-      "todayNav": 64.13,
-      "todayDate": "2026-11-05",
+      "todayNav": 61.95,
+      "todayDate": "2026-11-06",
       "ath": 72.73,
-      "fromAth": -11.82,
+      "fromAth": -14.81,
       "isAth": false,
-      "r1y": 25.72,
-      "r2y": 82.99,
-      "r2yCagr": 35.27
+      "r1y": 22.94,
+      "r2y": 69.44,
+      "r2yCagr": 30.17
     }
   ]
 }
