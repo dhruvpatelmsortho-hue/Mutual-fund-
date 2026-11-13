@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-11-13 08:56 UTC",
+  "generatedAt": "2026-11-13 16:54 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 81376.7,
+      "level": 81592.45,
       "date": "2026-11-13",
       "ath": 85836.12,
-      "fromAth": -5.2,
-      "isAth": false,
-      "r1y": -3.67,
-      "r2y": 4.74,
-      "r2yCagr": 2.34
+      "fromAth": -4.94,
+      "isAth": true,
+      "r1y": -3.42,
+      "r2y": 5.02,
+      "r2yCagr": 2.48
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 25076.05,
+      "level": 25144.3,
       "date": "2026-11-13",
       "ath": 26328.55,
-      "fromAth": -4.76,
+      "fromAth": -4.5,
       "isAth": true,
-      "r1y": -3.1,
-      "r2y": 6.44,
-      "r2yCagr": 3.17
+      "r1y": -2.84,
+      "r2y": 6.73,
+      "r2yCagr": 3.31
     },
     {
       "name": "Nifty Midcap 100",
@@ -275,14 +275,14 @@
       "name": "Parag Parikh Flexi Cap Fund Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 94.88,
-      "todayDate": "2026-11-11",
+      "todayNav": 94.81,
+      "todayDate": "2026-11-12",
       "ath": 95.77,
-      "fromAth": -0.93,
+      "fromAth": -1.0,
       "isAth": true,
-      "r1y": 0.74,
-      "r2y": 8.73,
-      "r2yCagr": 4.27
+      "r1y": 0.68,
+      "r2y": 9.5,
+      "r2yCagr": 4.64
     },
     {
       "name": "SBI Focused Equity Fund Direct Plan - Growth",
