@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-11-26 22:43 UTC",
+  "generatedAt": "2026-11-27 04:41 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 83938.28,
-      "date": "2026-11-25",
+      "level": 84038.84,
+      "date": "2026-11-27",
       "ath": 85836.12,
-      "fromAth": -2.21,
+      "fromAth": -2.09,
       "isAth": true,
-      "r1y": -0.77,
-      "r2y": 4.78,
-      "r2yCagr": 2.36
+      "r1y": -1.96,
+      "r2y": 4.74,
+      "r2yCagr": 2.34
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 25819.25,
-      "date": "2026-11-25",
+      "level": 25869.2,
+      "date": "2026-11-27",
       "ath": 26328.55,
-      "fromAth": -1.93,
+      "fromAth": -1.74,
       "isAth": true,
-      "r1y": -0.25,
-      "r2y": 6.59,
-      "r2yCagr": 3.24
+      "r1y": -1.32,
+      "r2y": 6.57,
+      "r2yCagr": 3.23
     },
     {
       "name": "Nifty Midcap 100",
@@ -41,27 +41,27 @@
       "name": "Axis ELSS Tax Saver Direct Plan-Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 117.81,
-      "todayDate": "2026-11-25",
+      "todayNav": 117.86,
+      "todayDate": "2026-11-26",
       "ath": 118.03,
-      "fromAth": -0.18,
+      "fromAth": -0.15,
       "isAth": true,
-      "r1y": 6.56,
-      "r2y": 11.56,
-      "r2yCagr": 5.62
+      "r1y": 5.38,
+      "r2y": 11.91,
+      "r2yCagr": 5.79
     },
     {
       "name": "Axis Large Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 75.65,
-      "todayDate": "2026-11-25",
+      "todayNav": 75.43,
+      "todayDate": "2026-11-26",
       "ath": 75.65,
-      "fromAth": 0.0,
+      "fromAth": -0.29,
       "isAth": true,
-      "r1y": 6.1,
-      "r2y": 12.51,
-      "r2yCagr": 6.07
+      "r1y": 4.58,
+      "r2y": 12.23,
+      "r2yCagr": 5.94
     },
     {
       "name": "Axis Midcap Fund Direct Plan - Growth",
@@ -132,27 +132,27 @@
       "name": "HDFC Flexi Cap Fund - Direct Plan - Growth Option",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 2425.74,
-      "todayDate": "2026-11-25",
-      "ath": 2427.51,
-      "fromAth": -0.07,
+      "todayNav": 2429.14,
+      "todayDate": "2026-11-26",
+      "ath": 2429.14,
+      "fromAth": 0.0,
       "isAth": true,
-      "r1y": 7.07,
-      "r2y": 18.28,
-      "r2yCagr": 8.75
+      "r1y": 6.34,
+      "r2y": 18.43,
+      "r2yCagr": 8.83
     },
     {
       "name": "HDFC Mid-Cap Opportunities Fund - Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 232.86,
-      "todayDate": "2026-11-25",
+      "todayNav": 231.71,
+      "todayDate": "2026-11-26",
       "ath": 237.63,
-      "fromAth": -2.01,
+      "fromAth": -2.49,
       "isAth": true,
-      "r1y": 3.89,
-      "r2y": 14.08,
-      "r2yCagr": 6.81
+      "r1y": 2.41,
+      "r2y": 13.28,
+      "r2yCagr": 6.43
     },
     {
       "name": "HDFC Value Fund - Direct Plan - Growth",
@@ -301,14 +301,14 @@
       "name": "Tata Value Fund Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 413.88,
-      "todayDate": "2026-11-25",
+      "todayNav": 413.29,
+      "todayDate": "2026-11-26",
       "ath": 426.51,
-      "fromAth": -2.96,
+      "fromAth": -3.1,
       "isAth": true,
-      "r1y": 2.2,
-      "r2y": 5.14,
-      "r2yCagr": 2.54
+      "r1y": 0.6,
+      "r2y": 4.89,
+      "r2yCagr": 2.42
     },
     {
       "name": "Mirae Asset NYSE FANG+ ETF FoF Direct Growth",
@@ -327,14 +327,14 @@
       "name": "Motilal Oswal Nasdaq 100 FOF Direct Growth",
       "type": "FOREIGN",
       "error": false,
-      "todayNav": 62.0,
-      "todayDate": "2026-11-25",
+      "todayNav": 63.63,
+      "todayDate": "2026-11-26",
       "ath": 72.73,
-      "fromAth": -14.75,
+      "fromAth": -12.51,
       "isAth": false,
-      "r1y": 27.09,
-      "r2y": 67.74,
-      "r2yCagr": 29.51
+      "r1y": 29.39,
+      "r2y": 73.4,
+      "r2yCagr": 31.68
     }
   ]
 }
