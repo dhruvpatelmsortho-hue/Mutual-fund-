@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-11-27 23:06 UTC",
+  "generatedAt": "2026-11-28 05:43 UTC",
   "indices": [
     {
       "name": "BSE Sensex",
       "ticker": "^BSESN",
       "error": false,
-      "level": 84328.59,
-      "date": "2026-11-26",
+      "level": 83339.26,
+      "date": "2026-11-27",
       "ath": 85836.12,
-      "fromAth": -1.76,
+      "fromAth": -2.91,
       "isAth": true,
-      "r1y": -1.5,
-      "r2y": 5.41,
-      "r2yCagr": 2.67
+      "r1y": -2.78,
+      "r2y": 3.87,
+      "r2yCagr": 1.92
     },
     {
       "name": "Nifty 50",
       "ticker": "^NSEI",
       "error": false,
-      "level": 25884.5,
-      "date": "2026-11-26",
+      "level": 25607.2,
+      "date": "2026-11-27",
       "ath": 26328.55,
-      "fromAth": -1.69,
+      "fromAth": -2.74,
       "isAth": true,
-      "r1y": -1.22,
-      "r2y": 6.99,
-      "r2yCagr": 3.43
+      "r1y": -2.32,
+      "r2y": 5.49,
+      "r2yCagr": 2.71
     },
     {
       "name": "Nifty Midcap 100",
@@ -54,14 +54,14 @@
       "name": "Axis Large Cap Fund - Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 75.43,
-      "todayDate": "2026-11-26",
+      "todayNav": 74.69,
+      "todayDate": "2026-11-27",
       "ath": 75.65,
-      "fromAth": -0.29,
+      "fromAth": -1.27,
       "isAth": true,
-      "r1y": 4.58,
-      "r2y": 12.23,
-      "r2yCagr": 5.94
+      "r1y": 3.48,
+      "r2y": 10.72,
+      "r2yCagr": 5.22
     },
     {
       "name": "Axis Midcap Fund Direct Plan - Growth",
@@ -119,40 +119,40 @@
       "name": "Franklin India Smaller Companies Fund Direct Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 72.14,
-      "todayDate": "2026-11-25",
+      "todayNav": 74.63,
+      "todayDate": "2026-11-27",
       "ath": 84.46,
-      "fromAth": -14.59,
+      "fromAth": -11.64,
       "isAth": false,
-      "r1y": 6.75,
-      "r2y": 33.13,
-      "r2yCagr": 15.38
+      "r1y": 8.62,
+      "r2y": 37.16,
+      "r2yCagr": 17.12
     },
     {
       "name": "HDFC Flexi Cap Fund - Direct Plan - Growth Option",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 2429.14,
-      "todayDate": "2026-11-26",
+      "todayNav": 2410.36,
+      "todayDate": "2026-11-27",
       "ath": 2429.14,
-      "fromAth": 0.0,
+      "fromAth": -0.77,
       "isAth": true,
-      "r1y": 6.34,
-      "r2y": 18.43,
-      "r2yCagr": 8.83
+      "r1y": 5.64,
+      "r2y": 17.29,
+      "r2yCagr": 8.3
     },
     {
       "name": "HDFC Mid-Cap Opportunities Fund - Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 231.71,
-      "todayDate": "2026-11-26",
+      "todayNav": 232.01,
+      "todayDate": "2026-11-27",
       "ath": 237.63,
-      "fromAth": -2.49,
+      "fromAth": -2.36,
       "isAth": true,
-      "r1y": 2.41,
-      "r2y": 13.28,
-      "r2yCagr": 6.43
+      "r1y": 2.62,
+      "r2y": 13.3,
+      "r2yCagr": 6.44
     },
     {
       "name": "HDFC Value Fund - Direct Plan - Growth",
@@ -171,14 +171,14 @@
       "name": "ICICI Prudential Business Cycle Fund Direct Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 27.82,
-      "todayDate": "2026-11-26",
+      "todayNav": 27.62,
+      "todayDate": "2026-11-27",
       "ath": 27.84,
-      "fromAth": -0.07,
+      "fromAth": -0.79,
       "isAth": true,
-      "r1y": 1.35,
-      "r2y": 16.79,
-      "r2yCagr": 8.07
+      "r1y": 0.62,
+      "r2y": 15.52,
+      "r2yCagr": 7.48
     },
     {
       "name": "ICICI Prudential Flexicap Fund Direct Growth",
@@ -210,14 +210,14 @@
       "name": "ICICI Prudential Value Fund Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 540.35,
-      "todayDate": "2026-11-26",
+      "todayNav": 535.47,
+      "todayDate": "2026-11-27",
       "ath": 551.95,
-      "fromAth": -2.1,
+      "fromAth": -2.99,
       "isAth": true,
-      "r1y": -1.49,
-      "r2y": 10.62,
-      "r2yCagr": 5.18
+      "r1y": -2.44,
+      "r2y": 9.3,
+      "r2yCagr": 4.55
     },
     {
       "name": "Mirae Asset Emerging Bluechip Fund Direct Plan - Growth",
@@ -288,14 +288,14 @@
       "name": "SBI Focused Equity Fund Direct Plan - Growth",
       "type": "INDIAN",
       "error": false,
-      "todayNav": 123.37,
-      "todayDate": "2026-11-26",
+      "todayNav": 122.52,
+      "todayDate": "2026-11-27",
       "ath": 159.88,
-      "fromAth": -22.84,
+      "fromAth": -23.37,
       "isAth": false,
-      "r1y": -11.97,
-      "r2y": -18.95,
-      "r2yCagr": -9.97
+      "r1y": -12.63,
+      "r2y": -19.74,
+      "r2yCagr": -10.41
     },
     {
       "name": "Tata Value Fund Direct Plan - Growth",
@@ -327,14 +327,14 @@
       "name": "Motilal Oswal Nasdaq 100 FOF Direct Growth",
       "type": "FOREIGN",
       "error": false,
-      "todayNav": 63.63,
-      "todayDate": "2026-11-26",
+      "todayNav": 64.81,
+      "todayDate": "2026-11-27",
       "ath": 72.73,
-      "fromAth": -12.51,
+      "fromAth": -10.89,
       "isAth": false,
-      "r1y": 29.39,
-      "r2y": 73.4,
-      "r2yCagr": 31.68
+      "r1y": 32.16,
+      "r2y": 73.61,
+      "r2yCagr": 31.76
     }
   ]
 }
